@@ -1,8 +1,8 @@
 # NLP_Project_Group31
 
-*---------------------- How to Run ----------------------*
+**------------------------------------------------ How to Run ------------------------------------------------**
 
-1. Clone this repo and open `NLP_Group31.ipynb`.
+1. Clone this repo and open `NLP_Group31.ipynb`. (It would be better if opened in Google Colab.)
 2. Run each cell sequentially:
    - Install dependencies
    - Scrape reviews from Snapdeal URLs
